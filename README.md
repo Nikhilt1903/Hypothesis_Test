@@ -19,6 +19,6 @@ Using the alpha level of 5% (α = 0.05), determine the critical value from the s
 5. Make a Decision:
 Compare the test statistic with the critical value to decide whether to reject the null hypothesis.
 6. Conclusion:
-Based on the decision in step 4, conclude whether there is strong evidence to support the restaurant owners' claim that the weekly operating costs are higher than the model suggests.
-![image](https://github.com/user-attachments/assets/83085153-fb4a-45b0-825e-d3d7a2a56d14)
+Based on the decision in step 4, conclude whether there is strong evidence to support the restaurant owners claim that the weekly operating costs are higher than the model suggests.
+
 
