@@ -5,15 +5,20 @@ Bombay hospitality Ltd. operates a franchise model for producing exotic Norwegia
 2. Calculate the Test Statistic:
 Use the following formula to calculate the test statistic (t):
 where:
+
 •	ˉxˉ = sample mean weekly cost (Rs. 3,050)
+
 •	μ = theoretical mean weekly cost according to the cost model (W = $1,000 + $5X for X = 600 units)
+
 •	σ = 5*25 units
+
 •	n = sample size (25 restaurants)
-3. Determine the Critical Value:
+
+4. Determine the Critical Value:
 Using the alpha level of 5% (α = 0.05), determine the critical value from the standard normal (Z) distribution table.
-4. Make a Decision:
+5. Make a Decision:
 Compare the test statistic with the critical value to decide whether to reject the null hypothesis.
-5. Conclusion:
+6. Conclusion:
 Based on the decision in step 4, conclude whether there is strong evidence to support the restaurant owners' claim that the weekly operating costs are higher than the model suggests.
 ![image](https://github.com/user-attachments/assets/83085153-fb4a-45b0-825e-d3d7a2a56d14)
 
